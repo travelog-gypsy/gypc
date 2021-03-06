@@ -56,7 +56,7 @@ class _LoginScreenPageState extends State<LoginScreenPage> {
                           color: Colors.blue,
                           child: Text('Login'),
                           onPressed: () {
-                            //login screen
+                            //home screen
                           },
                         )),
                     FlatButton(
