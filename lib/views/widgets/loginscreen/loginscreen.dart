@@ -103,11 +103,11 @@ class _LoginScreenPageState extends State<LoginScreenPage> {
                     Container(
                         child: Row(
                       children: <Widget>[
-                        Text('Does not have account?'),
+                        Text('Not a Gypc yet?'),
                         FlatButton(
                           textColor: Colors.blue,
                           child: Text(
-                            'Sign in',
+                            'Join us now',
                             style: TextStyle(fontSize: 20),
                           ),
                           onPressed: () {
