@@ -23,7 +23,7 @@ class _LoginScreenPageState extends State<LoginScreenPage> {
                         child: Text(
                           'Gypc',
                           style: TextStyle(
-                              color: Colors.deepPurple,
+                              color: Colors.deepPurple.shade700,
                               fontWeight: FontWeight.w500,
                               fontSize: 35),
                         )),
